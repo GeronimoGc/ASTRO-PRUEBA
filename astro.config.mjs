@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
-	base :"/mi-repo",
+	site: 'https://geronimogc.github.io/',
+	base :"/ATRO-PRUEBA",
 	integrations: [mdx(), sitemap()],
 });
